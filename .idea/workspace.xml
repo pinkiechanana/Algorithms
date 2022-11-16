@@ -2,20 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="60ed805b-bc40-489a-b724-490ca79c1829" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithms.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CheckIfPalindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FindFactorialRecursion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MaxNumArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MaxNumLtoR.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MaxOccurredChar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NonRepeatedChar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PrimeNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MoveArrayElementRight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/single_linked_list/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/single_linked_list/SinglyLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +38,8 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/chanana/Desktop/pinkie/intellijosh/Algorithms&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
@@ -64,6 +56,11 @@
       <workItem from="1668512623780" duration="133000" />
       <workItem from="1668512815967" duration="58000" />
       <workItem from="1668512877373" duration="243000" />
+      <workItem from="1668513149337" duration="135000" />
+      <workItem from="1668557991670" duration="210000" />
+      <workItem from="1668558513492" duration="35000" />
+      <workItem from="1668558976858" duration="102000" />
+      <workItem from="1668595954663" duration="45000" />
     </task>
     <servers />
   </component>
