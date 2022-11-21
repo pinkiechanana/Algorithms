@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="60ed805b-bc40-489a-b724-490ca79c1829" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/MoveArrayElementRight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/single_linked_list/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/single_linked_list/SinglyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AddLineOfNumForLargestSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ListLetters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NoArrayPrimeNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pairs.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,7 +61,10 @@
       <workItem from="1668557991670" duration="210000" />
       <workItem from="1668558513492" duration="35000" />
       <workItem from="1668558976858" duration="102000" />
-      <workItem from="1668595954663" duration="45000" />
+      <workItem from="1668595954663" duration="2295000" />
+      <workItem from="1668659818056" duration="2993000" />
+      <workItem from="1669012625453" duration="1070000" />
+      <workItem from="1669014184238" duration="5595000" />
     </task>
     <servers />
   </component>
