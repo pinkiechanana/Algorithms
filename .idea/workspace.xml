@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="60ed805b-bc40-489a-b724-490ca79c1829" name="Changes" comment="" />
+    <list default="true" id="60ed805b-bc40-489a-b724-490ca79c1829" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/baek_joon_qa/Testing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,7 +69,7 @@
       <workItem from="1669014184238" duration="6166000" />
       <workItem from="1669088306562" duration="2412000" />
       <workItem from="1669117172825" duration="128000" />
-      <workItem from="1669806269241" duration="672000" />
+      <workItem from="1669806269241" duration="1301000" />
     </task>
     <servers />
   </component>
