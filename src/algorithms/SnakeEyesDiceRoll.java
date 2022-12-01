@@ -1,3 +1,5 @@
+package algorithms;
+
 public class SnakeEyesDiceRoll {
     public static void main(String[] args) {
 

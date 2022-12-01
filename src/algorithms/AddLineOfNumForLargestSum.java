@@ -1,4 +1,4 @@
-// With an array with both positive and negative numbers, add from [a] to [b] for largest sum
+package algorithms;// With an array with both positive and negative numbers, add from [a] to [b] for largest sum
 // example:  [1, 2, -23, 45, 2, 1, -12, 9, 12, -32, -2, 45]
 
 import java.util.Scanner;

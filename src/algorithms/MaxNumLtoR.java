@@ -1,3 +1,5 @@
+package algorithms;
+
 public class MaxNumLtoR {
     public static void main (String[] args) {
 
