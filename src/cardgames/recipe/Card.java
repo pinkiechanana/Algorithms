@@ -1,4 +1,4 @@
-package cardgames.objects;
+package cardgames.recipe;
 
 public class Card {
 

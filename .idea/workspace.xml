@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="60ed805b-bc40-489a-b724-490ca79c1829" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/cardgames/recipe/BlackJackHand.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Testing.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cardgames/objects/Hand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cardgames/objects/Hand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cardgames/games/HighLow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cardgames/games/HighLow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cardgames/objects/Card.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cardgames/recipe/Card.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cardgames/objects/Deck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cardgames/recipe/Deck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cardgames/objects/Hand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cardgames/recipe/Hand.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,6 +97,7 @@
       <workItem from="1669867248238" duration="5792000" />
       <workItem from="1669940864829" duration="3251000" />
       <workItem from="1669954547716" duration="14673000" />
+      <workItem from="1669978843277" duration="3026000" />
     </task>
     <servers />
   </component>

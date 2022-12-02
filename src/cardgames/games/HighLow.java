@@ -1,7 +1,7 @@
 package cardgames.games;
 
-import cardgames.objects.Card;
-import cardgames.objects.Deck;
+import cardgames.recipe.Card;
+import cardgames.recipe.Deck;
 
 import java.util.Scanner;
 
