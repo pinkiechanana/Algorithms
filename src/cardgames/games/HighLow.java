@@ -1,4 +1,5 @@
 package cardgames.games;
+
 import cardgames.objects.Card;
 import cardgames.objects.Deck;
 
@@ -25,6 +26,7 @@ public class HighLow {
             gamesPlayed++;
             System.out.println("Play again? ");
             playAgain = scan.nextBoolean();
+
         } while (playAgain);
 
         averageScore = ((double) sumOfScores) / gamesPlayed;

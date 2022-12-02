@@ -1,46 +1,48 @@
 package cardgames.objects;
 
+import java.util.ArrayList;
+
 public class Hand {
-    // Create a Hand object which is initially empty
 
+    private ArrayList<Card> hand; // The cards in the hand.
+
+    // create a hand that is initially empty
+    public Hand() {
+        hand = new ArrayList<>();
+    }
+
+    // remove all cards in hand
     public void clear() {
-        // Discard all cards in hand.
+        hand.clear();
     }
 
-    public void addCard(Card c) {
-        // Add the c in the hand. c should be non-null.
-        // If c is null, NullPointerException should be thrown.
-
+    // add a card at the end of the cards in hand
+    // @param 'c' the non-null to be added
+    // @throws NullPointerException if 'c' is null
+    public void addCard (Card c) {
+        if (c == null) throw new NullPointerException("Can't add a null card to the hand.");
+        hand.add(c);
     }
 
-    public void removeCard(Card c) {
-        // If the specified card is in the hand, it will be removed.
-
+    // remove a card from the hand, if present.
+    // @param 'c' the card to be removed if present. If 'c' is null or not present, nothing happens.
+    public void removeCard (Card c) {
+        hand.remove(c);
     }
 
+    // Remove the card in a specific location in hand.
+    // @param position of the card to be removed. Positions are numbered starting from 0.
+    // @throws IllegalArgumentException if the position does not exist in hand.
+    // (position < 0 || position >= hand.length)
     public void removeCard(int position) {
-        // The card in the # position will be removed.
-        // Cards are counted starting from 0.
-        // If the position does not exist, an exception will be thrown.
-
+        if (position < 0 || position >= hand.size()) throw new IllegalArgumentException("Position does not exist in hand: " + position);
+        hand.remove(position);
     }
 
+    // return the number of cards in hand.
     public int getCardCount() {
-        // return the number of cards in hand.
-        return 0;
+        return hand.size();
     }
 
-    public void sortBySuit() {
-        // Sort the cards in hand by suit in groups.
-        // For each groups of suits, they are sorted in order by value.
-        // Ace is the lowest.
-
-    }
-
-    public void sortByValue() {
-        // Sort the cards in hand by value.
-        // Each group then will be sorted in order by suit.
-        // Ace is the lowest.
-
-    }
+    
 }
